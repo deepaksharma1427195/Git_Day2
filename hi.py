@@ -6,5 +6,5 @@ elif (n>=2):
         if(n%i == 0):
 	    print(f"{n} is not prime")
 	    break
-else:
-    print(f"{n} is Prime Number")
+     else:
+         print(f"{n} is Prime Number")
